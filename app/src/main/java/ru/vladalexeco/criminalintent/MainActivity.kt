@@ -18,4 +18,6 @@ class MainActivity : AppCompatActivity() {
                 .commit()
         }
     }
+
+    fun someFunction() {}
 }
